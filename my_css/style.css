@@ -1,0 +1,20 @@
+.red-text{ font-size: 30px;
+    color:darkmagenta
+        font-family: 'Lato', sans-serif;
+        background-color:green 
+    }
+    img{
+        object-fit: cover;
+        width: 400px;
+        height: 400px;
+        border: 1px solid purple;
+        border-radius: 50%;
+
+    }
+    body{
+        background-color: yellow;
+    }
+    
+
+
+}
